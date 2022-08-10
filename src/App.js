@@ -4,7 +4,7 @@ import SortList from './components/sort_list';
 import TicketsList from './components/ticket_list';
 
 function App() {
-  const [curTransf,setcurTransf] = useState(0)
+  const [curTransf,setcurTransf] = useState(5)
 
 
   return (

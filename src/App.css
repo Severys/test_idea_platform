@@ -36,7 +36,11 @@
 	width: 250px;
 	gap: 20px;
 	padding: 15px;
+}
 
+.ticket_img {
+	height: 50px;
+	line-height: 50px;
 }
 
 .ticket_buy {
@@ -112,9 +116,7 @@
 	border-radius: 5px 0 0 5px;
 
 }
-.usd{
 
-}
 .eur{
 	border-radius: 0 5px 5px 0;
 }
